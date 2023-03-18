@@ -19,6 +19,14 @@ Requirements:
 14. pip install pickle
 
 
+
+
+
+
+
+
+
+
 ![a6](https://user-images.githubusercontent.com/109945767/226101330-5adcd099-d253-4256-a40f-4abff1d96c2b.png)
 
 
